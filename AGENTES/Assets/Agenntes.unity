@@ -495,7 +495,7 @@ GameObject:
   - component: {fileID: 1856593599}
   - component: {fileID: 1856593598}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Suelo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -656,7 +656,7 @@ PrefabInstance:
     - target: {fileID: 6998395516498429953, guid: ecccd242534d53640945b937100d3e6c,
         type: 3}
       propertyPath: m_Name
-      value: Sphere
+      value: Bala
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecccd242534d53640945b937100d3e6c, type: 3}
